@@ -5,10 +5,11 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-CN%20%7C%20EN-blue)
 
 **基于 Frank-Wolfe 算法的预测市场套利策略实现**
 
-[功能特性](#-功能特性) • [快速开始](#-快速开始) • [算法说明](#-算法说明) • [文档](#-文档)
+[English](README_EN.md) | [中文](README.md) | [功能特性](#-功能特性) • [快速开始](#-快速开始) • [算法说明](#-算法说明) • [文档](#-文档)
 
 </div>
 
@@ -308,10 +309,20 @@ python3 examples/visualization.py
 
 ## 📖 文档
 
+### 完整文档
 - [算法详细说明](docs/algorithm.md)
 - [API 参考](docs/api.md)
 - [配置说明](docs/config.md)
 - [常见问题](docs/faq.md)
+
+### 多语言文档
+- [English Documentation](README_EN.md) - 英文完整文档
+- [中文文档](README.md) - 当前（中文完整文档）
+- [快速开始 (EN/CN)](QUICKSTART.md) - 中英文快速开始指南
+
+### 贡献指南
+- [贡献指南 (中文)](CONTRIBUTING.md) - 中文贡献指南
+- [Contributing Guide (English)](CONTRIBUTING_EN.md) - 英文贡献指南
 
 ---
 
@@ -357,6 +368,13 @@ python3 examples/visualization.py
 - 预测市场交易存在风险
 - 请根据自身情况做出投资决策
 - 作者不对任何投资损失负责
+
+---
+
+## 🌐 其他语言文档
+
+- [中文文档](README.md) - 当前（中文）
+- [English Documentation](README_EN.md) - 英文文档
 
 ---
 
